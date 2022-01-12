@@ -3,8 +3,8 @@
 
 <br>INTEGRANTES</br>
 
-<br>Lorenzo Nahuel</br>
-<br>Miceli Ezequiel</br>
+Lorenzo Nahuel
+Miceli Ezequiel
 <br>Orellana Fernando</br>
 
 1.1 Descripción
