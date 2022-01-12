@@ -4,7 +4,7 @@
 <br>INTEGRANTES</br>
 
 Lorenzo Nahuel
-Miceli Ezequiel
+<br>Miceli Ezequiel<br>
 <br>Orellana Fernando</br>
 
 1.1 Descripción
