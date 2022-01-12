@@ -7,7 +7,7 @@ Lorenzo Nahuel
 <br>Miceli Ezequiel<br>
 Orellana Fernando
 
-1.1 Descripción
+1.1 <br>Descripción</br>
 Definir una estructura “movie” con los datos de una pelicula: 
 
 Título 
